@@ -1,4 +1,4 @@
-# Cryptocurrency TokenPrice Analysis
+# Cryptocurrency Token Price Analysis
 ## Project Objectives
 The main purpose of this project is to see if it exists a relationship between the amount of SLP minted and the amount of SLP burned vs its price in the market.
 
